@@ -1,2 +1,0 @@
-# Portfolio
-meu primeiro repositório 
