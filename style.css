@@ -4,10 +4,16 @@ body {
     background-color: azure;
 }
 
-i{
+i {
     color: darkblue;
     margin-top: 450px;
-    margin-left: 400px;
+    margin-left: 100px;
+}
+
+a {
+    padding-left: 10px;    
+    align-items: center;
+
 }
 
 h1,h2 {
