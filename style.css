@@ -1,37 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Tiro+Telugu:ital@1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Tiro+Telugu:ital@1&display=swap");
 
+
+header {
+  display: flex;
+
+}
+.titulo {
+  justify-content: center;
+  color: black;
+  width: 100%;
+}
 body {
-    background-color: azure;
+  background-color: azure;
+}
+.nav-bar {
+  display: flex;
+  justify-content: center;
 }
 
-i {
-    color: darkblue;
-    margin-top: 450px;
-    margin-left: 100px;
+.nav-bar a {
+  padding-left: 150px;
+  padding-right: 150px;
+  justify-content: center;
 }
 
-a {
-    padding-left: 10px;    
-    align-items: center;
-
+li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+article h2 {
+  color: darkblue;
 }
 
-h1,h2 {
-    color:darkblue;
-    font-family: 'Oswald', sans-serif;
+.nome {
+  color: darkblue;
+  font-family: "Oswald", sans-serif;
 }
-
-
-
-
-
- li {
-    background: #cce5ff;
-    color: darkblue;
-    margin: 5px;
-    
-}
-
-
 
 
